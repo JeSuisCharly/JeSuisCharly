@@ -1,16 +1,20 @@
-## Hi there 👋
+# ⭕ ¡Hola! Soy Charly  
 
-<!--
-**JeSuisCharly/JeSuisCharly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Ingeniero en Comunicaciones y Electrónica** con experiencia en análisis de datos, desarrollo de software y automatización. Me apasiona la tecnología y la programación.  
 
-Here are some ideas to get you started:
+## 🚀 Acerca de mí  
+- 🔹 Me especializo en **Python, SQL, MATLAB y Excel**.  
+- 🔹 Interesado en el desarrollo de **herramientas para análisis y visualización de datos**.  
+- 🔹 Explorando nuevas tecnologías y frameworks para mejorar la eficiencia en proyectos.  
+- 🔹 Siempre aprendiendo y buscando optimizar procesos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Tecnologías y Herramientas  
+- **Lenguajes:** Python, SQL, MATLAB  
+- **Herramientas:** Excel, VS Code, GitHub  
+- **Frameworks y Librerías:** Pandas, NumPy, Tkinter, Pygame  
+
+## 📫 Contacto  
+🔗 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)  
+📧 Email: tuemail@example.com  
+
+¡Gracias por visitar mi perfil! 🌀  
